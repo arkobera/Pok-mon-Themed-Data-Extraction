@@ -157,5 +157,3 @@ The scraped data is stored in pandas DataFrames and exported to CSV files, makin
 - **Automation**: Set up a cron job or scheduler to run the scraper at regular intervals to keep the data updated.
 
 ---
-
-Feel free to modify this README further to match any additional details or changes in your project!
