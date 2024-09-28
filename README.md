@@ -1,4 +1,3 @@
-Sure! Here’s a more comprehensive README file that covers all three CSVs you’ve created in your project:
 
 ---
 
