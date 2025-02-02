@@ -112,12 +112,12 @@ pip install requests beautifulsoup4 pandas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/arkobera/Poke-mon-Themed-data-extraction.git
+   git clone https://github.com/arkobera/Pok-mon-Themed-Data-Extraction.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd financial-data-scraper
+   cd Pok-mon-Themed-Data-Extraction
    ```
 
 3. Install the dependencies:
